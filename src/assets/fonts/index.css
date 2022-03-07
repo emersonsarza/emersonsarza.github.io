@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Primary Font";
+  src: url("./Consolas.ttf") format("truetype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Primary Font";
+  src: url("./ConsolasB.ttf") format("truetype");
+  font-weight: bold;
+}
