@@ -9,6 +9,10 @@ export const Container = styled.footer`
   align-items: center;
   font-family: monospace;
   color: ${TEXT_WHITE};
+
+  @media screen and (max-width: 800px) {
+    font-size: 10px;
+  }
 `;
 
 export const Text = styled.p`

@@ -3,7 +3,7 @@ import React from 'react';
 import Footer from '../../components/footer/Footer';
 import ReadMe from './ReadMe';
 
-import { Body, Container, FooterContainer, Left, Right } from './styles';
+import { Body, Container, FooterContainer, Left } from './styles';
 
 const Homepage = () => {
   return (
@@ -12,7 +12,6 @@ const Homepage = () => {
         <Left>
           <ReadMe />
         </Left>
-        <Right></Right>
       </Body>
       <FooterContainer>
         <Footer />
