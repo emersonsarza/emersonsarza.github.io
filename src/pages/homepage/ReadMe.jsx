@@ -33,10 +33,6 @@ const ReadMe = () => {
         <Code type='link' value='Instagram' link='https://bit.ly/3hMtY8W' />
         <Code type='link' value='Email' link='mailto:emersonsarza@gmail.com' />
       </div>
-      <div>
-        <Code type='subheader' value='Personal projects' />
-        <Code type='link' value='Cebu Flower Company' link='#' />
-      </div>
     </div>
   );
 };
