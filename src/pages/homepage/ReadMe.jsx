@@ -30,8 +30,12 @@ const ReadMe = () => {
         <Code type='subheader' value='Personal profiles' />
         <Code type='link' value='Personal GitHub' link='https://bit.ly/3tE3lbI' />
         <Code type='link' value='HackerRank' link='https://bit.ly/3pI9r9W' />
-        <Code type='link' value='Instagram' link='https://bit.ly/3hMtY8W' />
+        <Code type='link' value='Twitter' link='https://bit.ly/376uVr8' />
         <Code type='link' value='Email' link='mailto:emersonsarza@gmail.com' />
+      </div>
+      <div>
+        <Code type='subheader' value='Personal project' />
+        <Code type='link' value='Dota 2' link='https://bit.ly/3yb0aMV' />
       </div>
     </div>
   );
